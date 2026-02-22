@@ -17,8 +17,7 @@
 </h1>
 
 <div> 
-  
-## Hi there 👋
+
 **I’m a Software Engineering student focused on Backend development from Colombia.**
 
 + Currently specializing in Go and Node.js 

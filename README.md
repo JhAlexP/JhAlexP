@@ -33,9 +33,8 @@
 
 <div>
 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/go-original.svg" title="GO" alt="GO" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/nodejs-marco.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/typescript-AQzul_redondo.svg" title="Typescript" alt="Typescript" width="40" height="40"/> 
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/rust.svg" title="Rust"  alt="Rust" width="40" height="40"/> 
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/scala-svgrepo-com%20(1).svg" title="Scala"  alt="Scala" width="40" height="40"/> 
   <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/postgresql-Azul_con_marco.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/> 
   <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/docker-Azul_redondo.svg" title="Docker"  alt="Docker" width="40" height="40"/> 
   <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/aws-svgrepo-com.svg" title="aws"  alt="aws" width="40" height="40"/> 
@@ -43,11 +42,13 @@
 
 ### :telescope: Tools I would like to add in the future :
 
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/go-original.svg" title="GO" alt="GO" width="40" height="40"/> 
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/nodejs-marco.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/typescript-AQzul_redondo.svg" title="Typescript" alt="Typescript" width="40" height="40"/> 
   <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/kubernetes-svgrepo-com.svg" title="Kubernetes"  alt="Kubernetes" width="40" height="40"/>
   <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/prometheus-svgrepo-com.svg" title="prometheus"  alt="prometheus" width="40" height="40"/> 
   <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/grafana-svgrepo-com.svg" title="Grafana"  alt="Grafana" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/rust.svg" title="Rust"  alt="Rust" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/scala-svgrepo-com%20(1).svg" title="Scala"  alt="Scala" width="40" height="40"/> 
+
 
 </div>
 

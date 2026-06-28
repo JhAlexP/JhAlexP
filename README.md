@@ -1,15 +1,4 @@
-<div id="header">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVwaHZ1MnE3aDdnd2Z1NnZ2MnN4eWtnaGxhczh6YzZ3bjM1dTBzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ve43TyDQ3B4me7d22z/giphy.gif" width="300"/>
-</div>
-
-<p>
-  <a href="https://www.linkedin.com/in/jhalexr/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
-
-![](https://komarev.com/ghpvc/?username=JhAlexP)
-  
+ 
 <h1>
   <div>
   Hey there
@@ -17,55 +6,98 @@
 </h1>
 
 <div> 
+  
+**I’m a Software Engineering student :beginner: focused on Backend development from Colombia.**
 
-**I’m a Software Engineering student focused on Backend development from Colombia.**
++ I am currently in the germination and growth stage. :seedling:
 
-+ Currently specializing in Go and Node.js 
++ Learning Go and Node.js, with a focus on ***Fintech***. :credit_card:
 
-+ Actively looking for opportunities to gain hands-on experience 
++ Actively looking for opportunities to gain hands-on experience. :mortar_board:
 
-+ Passionate about everything related to backend development 
++ Passionate about everything related to backend development. :gem:
+
+<p>
+  <a href="https://www.linkedin.com/in/JhAlexP/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+![](https://komarev.com/ghpvc/?username=JhAlexP)
   
 </div>
 
 ---
 
-
-
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools I am learning :
 
 <div>
 
-<div>
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/go-original.svg" title="GO" alt="GO" width="40" height="40"/> 
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/nodejs-marco.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/typescript-AQzul_redondo.svg" title="Typescript" alt="Typescript" width="40" height="40"/> 
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/postgresql-Azul_con_marco.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/> 
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/docker-Azul_redondo.svg" title="Docker"  alt="Docker" width="40" height="40"/> 
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/aws-svgrepo-com.svg" title="aws"  alt="aws" width="40" height="40"/> 
+  
 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/nodejs-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/express.png" title="Express" alt="Express" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/go-original-wordmark.svg" title="GO" alt="GO" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/go-original.svg" title="GO" alt="GO" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/fiber-plain.svg" title="Fiber" alt="Fiber" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/postgresql-plain-wordmark.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/docker-original-wordmark.svg" title="Docker"  alt="Docker" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/git-original-wordmark.svg" title="Git"  alt="Git" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40"/> 
+### :telescope: Tools I would like to add in the future :
+
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/kubernetes-svgrepo-com.svg" title="Kubernetes"  alt="Kubernetes" width="40" height="40"/>
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/prometheus-svgrepo-com.svg" title="prometheus"  alt="prometheus" width="40" height="40"/> 
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/grafana-svgrepo-com.svg" title="Grafana"  alt="Grafana" width="40" height="40"/> 
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/rust.svg" title="Rust"  alt="Rust" width="40" height="40"/> 
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/scala-svgrepo-com%20(1).svg" title="Scala"  alt="Scala" width="40" height="40"/> 
 
 </div>
 
 ---
 
 
+<h2>
+:fire: My Stats :
+</h2>
 
-### :fire: My Stats :
-<p align="center">
-  <a href="https://github.com/sebastiandevops">
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JhAlexP&theme=dark&background=000000)](https://git.io/streak-stats)
-  </a>
+<div>
+
+ ### :trophy: Top
+ 
+<p align="left">
+ 
+   <a href="https://github.com/JhAlexP"><img alt="John Alexander's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JhAlexP&hide=css,html&langs_count=8&layout=compact&theme=react&border_color=FFFFFF&bg_color=0D1117&title_color=27F5F5&icon_color=F8D866" height="192px" width="49.5%"/></a>  
 </p>
 
-<a>
-    <a href="https://github.com/JhAlexP"><img alt="JhAlexP´s Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JhAlexP&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/JhAlexP"><img alt="JhAlexP's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JhAlexP&hide=css,html&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+### :stars: obtained
+<p align="left">
+ 
+<br>
+    <a href="https://github.com/JhAlexP"><img alt="John Alexander's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=JhAlexP&show_icons=true&count_private=true&theme=react&border_color=FFFFFF&bg_color=0D1117&title_color=27F5F5&icon_color=F8D866" height="192px" width="49.5%"/></a> 
+</p>
+</div>
+
+<div>
+ 
+### :watch: Streak 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JhAlexP&theme=dark&background=000000&ring=27F5F5)](https://git.io/streak-stats)
+
+</div>
+
+<div>
+ 
+### :coin: Contributions
+
+<p align="left">
+  <a href="https://github.com/JhAlexP">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JhAlexP&theme=radical" alt="John Alexander's GitHub Contribution"/>
+  </a>
+</p>
+</div>
+
+<div>
+
+### :construction_worker_man: Workday
+
+![John Alexander's Graph](https://github-readme-activity-graph.vercel.app/graph?username=JhAlexP&custom_title=John%20Alexander's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=27F5F5&line=27F5F5&point=27F5F5&area_color=FFFFFF&title_color=27F5F5&area=true)
+
+</div>

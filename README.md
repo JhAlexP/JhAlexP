@@ -34,7 +34,7 @@
 <div>
 
   <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/rust.svg" title="Rust"  alt="Rust" width="40" height="40"/> 
-  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/python-svgrepo-com.svg" title="Python"  alt="Python" width="40" height="40"/> 
+  <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/python.svg" title="Python"  alt="Python" width="40" height="40"/> 
   <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/postgresql-Azul_con_marco.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/> 
   <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/docker-Azul_redondo.svg" title="Docker"  alt="Docker" width="40" height="40"/> 
   <img src="https://github.com/JhAlexP/JhAlexP/blob/main/tools_icons/aws-svgrepo-com.svg" title="aws"  alt="aws" width="40" height="40"/> 

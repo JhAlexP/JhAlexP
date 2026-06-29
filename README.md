@@ -11,7 +11,7 @@
 
 + I am currently in the germination and growth stage. :seedling:
 
-+ Learning Go and Node.js, with a focus on ***Fintech***. :credit_card:
++ Learning Rust and Python, with a focus on ***Fintech***. :credit_card:
 
 + Actively looking for opportunities to gain hands-on experience. :mortar_board:
 
